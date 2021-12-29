@@ -1,0 +1,52 @@
+.align{
+    background-image: linear-gradient(pink, green, skyblue);
+    height: 100vh;
+    overflow-x: hidden;
+    text-align: center;
+}
+.abcd{
+    font-size: 30px;
+}
+.abcd1{
+    font-size: 20px;
+}
+.abcd2{
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 25px;
+    margin-top: 15px;
+}
+.abcd3{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+.onee{
+    text-align: center;
+
+}
+.onee1{
+    margin-left: 100px;
+    width: 500px;
+    margin-top: 20px;
+    background-color: chocolate;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.onee2{
+    
+   margin-top: 20px;
+    background-color: crimson;
+
+}
+.onee3{
+    margin-top: 250px;
+    background-color: darkmagenta;
+    padding: 10px;
+    border-radius: 25px;
+
+}
